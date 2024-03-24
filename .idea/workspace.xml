@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421e76b3-0ac2-4a25-9f13-f447d42716bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activity1.4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obstacles/Guard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obstacles/LocatableObstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obstacles/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obstacles/ObstacleType.java" afterDir="false" />
+    <list default="true" id="421e76b3-0ac2-4a25-9f13-f447d42716bb" name="Changes" comment="followed HW2.4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711102919336</updated>
     </task>
+    <task id="LOCAL-00001" summary="followed HW2.4">
+      <option name="closed" value="true" />
+      <created>1711104428040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711104428040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="followed HW2.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="followed HW2.4" />
   </component>
 </project>
